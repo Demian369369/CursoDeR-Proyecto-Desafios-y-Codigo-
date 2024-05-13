@@ -1,0 +1,46 @@
+
+Data science y programación van de la mano, un programador debe´ria conocer de ciencia de datos pues estos se encargan de recolectar los datos a través de las interfaces y los datos son la materia prima para la data sciencie. Se hace un recuento de la revolución industrial ( las revoluciones industriales). Hoy se vive la 4º revolución industrial, IoT, AI, los datos se producen constantemente, las empresas nos conocen por los datos que producimos.
+
+Big Data es muchísimo mayor a las 16 mil columnas. Volumen. Velocidad.Variedad son los requisitos, manejamos muchos datos no estructurados. Es decir, no en columnas. Se requieren conocimientos de matemáticas estadística, programación, conocimiento de negocio y contexto, visualización y comunicación. Responder preguntas a través de los datos.
+
+¿Para qué aprender ciencias de datos?
+A que perfiles le sirve aprender ciencia de datos:
+
+Ingenieros
+programadores
+Si estas en el mundo social como en Marketing, periodismo de datos
+Si en tu día a día debes interpretar y analizar datos
+Cuando excel ya no te sirve, se queda corto para el trabajo, la velocidad de procesamiento
+Cuando necesitas presentar visualmente resultados como informes
+.
+
+
+
+Captura de Pantalla 2021-11-23 a la(s) 11.06.51 a. m..png
+
+.
+
+Características del Big Data
+
+
+IMG_3154.jpg
+Volumen: excel ya se nos queda corto, manejamos más de 1.048.000 filas y 16.000 columnas
+
+Velocidad: estamos acostumbrados a la rapidez en el procesamiento de los datos un ejemplo de ello es el uso de las redes sociales y el valor del tiempo
+
+Variedad: manejamos datos estructurados y no estructurados
+
+
+     Estructurado 👉 bases de datos con tablas en filas y columnas
+
+     No Estructurados 👉 fotos, videos, mensajes en redes, audios
+Small Data
+Los científicos de datos no sólo trabajan Big Data 🤔 también Small Data.
+
+Este lo usan en el trabajo diario en las empresas, desarrollo personal
+
+¿Qué necesitamos para trabajar Big Data y Small Data?
+
+IMG_3155.jpg
+Desarrollar la habilidad de responder preguntas a través de los datos
+

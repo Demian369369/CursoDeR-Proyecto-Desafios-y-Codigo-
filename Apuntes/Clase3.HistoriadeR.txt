@@ -1,0 +1,28 @@
+https://es.r4ds.hadley.nz/
+Las variables del dataset de economía naranja
+
+Country - País
+GDP.PC - Producto interno bruto per capita
+GDP.US.bill - Producto interno bruto en billones de dólares
+GDP.Growth.. - Porcentaje de crecimiento del PIB
+Services...GDP - Aporte de servicios a PIB.
+Creat.Ind...GDP - Aporte de economía naranja a PIB.
+Inflation - Inflación.
+Unemployment - Tasa de desempleo.
+X..pop.below.poverty.line - Población debajo de la línea de pobreza.
+Internet.penetration...population - Penetración de internet.
+Median.age - Edad mediana de la población.
+X..pop.25.54 - Porcentaje de la población entre 25-54 años.
+Education.invest...GDP - Inversión en educación %PIB.
+/////////////////////////////////////////
+Esta clase consistió en un abrebocas del curso, exponiendo el temario de manera general sobre qué es lo que vamos a ver, el contenido del curso se ha basado en la economía naranja, que es un concepto económico propuesto por Felipe Buitrago Restrepo e Iván Duque (presidente de Colombia en la actualidad), en realidad este concepto viene reciclado de la economía cultural, donde el talento que tenemos puede usarse como beneficio sostenible. Primero se busca responder a una pregunta.El data Set de datos se tomó de distintas fuentes, que referenciaran a la economía naranja, los prodcutos brutos internos de cada país.
+/////////////////////////////////////////
+El primero en utilizar este término Economía Naranja fue el Banco Interamericano de Desarrollo (BID) para referirse a un modelo en el que las ideas creativas de las empresas y/o emprendimientos se conviertan en bienes y servicios culturales productivos, capaces de capitalizad dinero.
+
+La “economía naranja” está compuesta por una industria creativa dividida en dos áreas:
+
+Bienes creativos, conformado por las artes visuales y escénicas (cine, teatro, radio y streaming), las artesanías, los diseños de moda, los softwares, entre otros.
+Servicios creativos, conformado por los entretenimientos, juegos, videojuegos, arquitectura, publicidad, entre otros.
+
+///////////////////
+Python y R son dos lenguaje potentes para manejar los datos. Para los que estamos empezando en el mundo de Ciencia de Datos es importante no centrarnos en la discusión de cual es mejor, sino entender que son dos lenguajes con los cuales podemos afrontar diversos proyectos y dependiendo del proyecto, sus características y alcance, deberíamos de elegir uno lenguaje u otro. Fundamental tener este concepto claro para empezar en este mundo.

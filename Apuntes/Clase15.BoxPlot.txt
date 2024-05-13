@@ -1,0 +1,32 @@
+M E R E C E L A
+P E N A D E T A L L A R 🔎 E L E J E M P L O 👇 . Primero los datos se presentan en forma de TABLA y PUNTOS. Los 197 datos que corresponden a las 197 tiendas evaluadas .
+
+DATOS EN FORMA DE TABLA
+Con esta vista no es facil extraer, interpretar, ni describir la informacion del comportamiento de los datos .
+
+DATOS EN FORMA DE PUNTOS
+
+2020-04-28 (28).png(imagen1)
+Muchas tiendas con calificaciòn entre 75 y 80 No hay tiendas por encima de 85 y tampoco por debo de 40 La informaciòn es limitada .
+
+ENTONCES ORDENAS LOS DATOS DE MENOR < A > MAYOR 💡 ++minimo++ y ++maximo++
+
+2020-04-28 (29).png(imagen2)
+La calificaciòn mas baja la tuvo Trujillo 1-PER con 47,8 y la mas alta Callao 2-PER 83,3 .
+
+LEVANTAS UNA LINEA A MITAD DE LA LINEA DE DATOS ++media++ divide los datos en 50% hacia abajo y 50% hacia arriba
+
+2020-04-28 (30).png(imagen3)
+Ha sido Caracas 2-VEN la tienda que obtuvo la calificaciòn media con 73,2. El 50% de las tiendas evaluadas lograron una calificaciòn por debajo a 73,2 o que la mitad de las tiendas logro una calificacion superior a 73,2 .
+
+LEVANTAS UNA LINEA A 1/4 DE LA LINEA DE DATOS ++primer cuartil++ Barranquilla 2-COL obtuvo 64,7 El 25% de las tiendas evaluadas lograron una calificaciòn inferior a 64,7 o que el 75% de las tiendas lograron una calificaciòn superior a 64,7
+
+2020-04-28 (31).png(imagen4)
+.
+
+LEVANTAS UNA LINEA A 3/4 DE LA LINEA DE DATOS ++tercer cuartil++ Guayaquil 2-ECU con calificaciòn de 76,7 Podemos decir que el 75% de nuestras tiendas lograron una calificaciòn inferior a 76,7 o que el 25% de las tiendas lograron una calificaciòn por encima de 76,7
+
+2020-04-28 (32).png(imagen5)
+.
+
+LAS 5 CLAVES DE ESTADISTICA DESCRIPTIVA QUE VES EN EL BOX PLOT⚡ màximo tercer quartil media primer cuartil mìnimo

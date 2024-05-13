@@ -1,0 +1,5 @@
+
+Sabado = c(30,25,27)
+final_matrix_sabado <- cbind(final_matrix, Sabado)
+rownames(final_matrix_sabado)<-c("tiempo Platzi","tiempo lecturas","Tiempo podcast")
+final_matrix_sabado

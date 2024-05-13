@@ -1,0 +1,28 @@
+Para conocer la estructura de un dataset, utilizamos la función str() (que significa structure o estructura), pasandole como parámetro el nombre del dataset en cuestión. ­ En la información arrojada podemos visualizar los tipos de datos: (se recomienda comprender los fundamentos de la programación) int: Enteros. Números “redondos” como 1, 2, 3, 10, 100. num: Numérico. Números flotantes (o de coma flotante, decimales), como 1.5, 2.3, 3.2, 0.01. logi: Booleanos. Valores de true o false ­ Vale la pena aclarar que en los datasets, los valores booleanos pueden estar representados con los enteros (int) 1 y 0, true o false respectivamente. Para cambiar el tipo de dato, podemos llamar al dataset, situarnos en la variable, y utilizar el método as.logical(). dataset$var = as.logical(dataset$var) ­ También vimos la variable Factor, se usa para clasificar los datos según su grupo o categoría. ­ Hubo dos términos claves, observaciones y variables. Observaciones: Filas. Variables: Columnas. Donde fila y columna tienen el mismo significado que tienen en una tabla convencional; fila y observación son sinónimos, y variables y columnas también.
+....................................................
+numeric - (10.5, 55, 787)
+integer - (1L, 55L, 100L, where the letter "L" declares this as an integer)
+complex - (9 + 3i, where "i" is the imaginary part)
+character (a.k.a. string) - ("k", "R is exciting", "FALSE", "11.5")
+logical (a.k.a. boolean) - (TRUE or FALSE)
+
+# numeric
+x <- 10.5
+class(x)
+
+# integer
+x <- 1000L
+class(x)
+
+# complex
+x <- 9i + 3
+class(x)
+
+# character/string
+x <- "R is exciting"
+class(x)
+
+# logical/boolean
+x <- TRUE
+class(x)
+

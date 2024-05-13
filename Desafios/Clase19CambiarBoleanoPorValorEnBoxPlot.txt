@@ -1,0 +1,15 @@
+#RETO
+#
+ggplot(mtcars, aes(x=am, y=mpg, fill=am))+
+  geom_boxplot()+
+  labs(x="Tipos de caja", y="millas por galón",
+       title = "Millas por galón según tipos de caja mtcars")+
+  theme(legend.position = "none")+
+  theme(panel.background = element_blank(),
+        panel.grid.major = element_blank(),
+        panel.grid.minor = element_blank())
+
+mtcars$am <- factor(mtcars$am, levels=c(TRUE,FALSE),
+                    labels = c("Manual", "Automático")
+)
+

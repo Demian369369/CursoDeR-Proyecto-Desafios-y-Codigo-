@@ -1,0 +1,8 @@
+https://www.youtube.com/watch?v=W1_eCwuYkAI&t=316s
+
+++Tipos de visualización en EDA++ Histograma: En estadística, un histograma es una representación gráfica de una variable en forma de barras, donde la superficie de cada barra es proporcional a la frecuencia de los valores representados. Sirve para ver la distribución de las frecuencias de una variable. Las barras van pegadas y el orden en el eje X es ascendente. En un histograma se presenta lo que hay y también lo que no hay.
+
+Diagrama de dispersión (Scatterplot): Un diagrama de dispersión o gráfica de dispersión o gráfico de burbujas es un tipo de diagrama matemático que utiliza las coordenadas cartesianas para mostrar los valores de dos variables para un conjunto de datos. Las variables deben ser continuas o numéricas, los puntos no se pueden unir como si se hace en las gráficas de líneas
+
+++Diagrama de caja (Boxplot)++: También conocido como diagrama de caja y bigote, box plot, box-plot o boxplot. Es un método estandarizado para representar gráficamente una serie de datos numéricos a través de sus cuartiles. De esta manera, el diagrama de caja muestra a simple vista la mediana y los cuartiles de los datos,​ pudiendo también representar los valores atípicos de estos.
+
